@@ -17,8 +17,8 @@ import javax.mail.MessagingException;
 public class LoginActivity extends AppCompatActivity {
     private MailSender mailSender= new MailSender();
 
-    private String emailUser="elvirmisini@gmail.com";
-    private String passUser="Matematika12@123";
+    private String emailUser="pajazitielton002@gmail.com";
+    private String passUser="Fiek123@123";
 
     @Override
     protected void onCreate( Bundle savedInstanceState) {
