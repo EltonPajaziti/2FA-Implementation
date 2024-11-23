@@ -11,14 +11,7 @@ A secure **Two-Factor Authentication (2FA)** system implemented in Java for Andr
 
 ---
 
-## Project Structure
-- `LoginActivity.java`: Manages login, OTP generation, and email sending.
-- `SignUpActivity.java`: Mock signup activity for demonstration purposes.
-- `VerifyActivity.java`: Handles OTP verification and resend logic.
-- `MailSender.java`: Sends OTP emails using JavaMail API.
-- `SuccessActivity.java`: Displayed after successful OTP verification.
 
----
 
 ## Prerequisites
 To run this project, ensure the following:
