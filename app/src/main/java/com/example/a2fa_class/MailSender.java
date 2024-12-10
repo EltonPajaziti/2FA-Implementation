@@ -9,7 +9,7 @@ public class MailSender {
 
     private final String host = "smtp.gmail.com";
     private final String port = "587";
-    private final String userEmail = "pajazitielton002@gmail.com";
+    private final String userEmail = "";
     private final String userPassword = "aprnzvuymqvsgapt";
 
     public void sendOtpEmail(String recipientEmail, String otp) throws MessagingException {
